@@ -1,0 +1,18 @@
+{
+  "name": "fazel-najafabad",
+  "version": "3.0.0",
+  "private": true,
+  "description": "سایت رسمی مجموعه تفریحی فاضل نجف‌آباد — Next.js + Supabase",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.7.0",
+    "@supabase/supabase-js": "^2.45.0",
+    "next": "^15.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
